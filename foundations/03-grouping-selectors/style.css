@@ -1,15 +1,14 @@
 button {
     border-radius: 0%;
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', Times, serif;
 }
 
 .blackbg {
     background-color: black;
     color: white;
-    font-family: 'Times New Roman', Times, serif;
 }
 
 .yellowbg {
     background-color: yellow;
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
 }
