@@ -1,0 +1,15 @@
+button {
+    border-radius: 0%;
+}
+
+.blackbg {
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.yellowbg {
+    background-color: yellow;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
